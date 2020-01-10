@@ -1,0 +1,102 @@
+﻿.indexUserIdentity {
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    position: absolute;
+    right: 100px;
+    top: 50px;
+    width: 200px;
+}
+
+.indexUserIdentity2 {
+    position: absolute;
+    right: 30px;
+    top: 80px;
+    font-size: 15px;
+    width: 330px;
+    height: 30px;
+    box-shadow: 2px 2px 12px 1px #404040;
+}
+
+.indexUserIdentity3 {
+    position: absolute;
+    top: 60px;
+    right: 30px;
+    width: 330px;
+    height: 40px;
+    font-size: 20px;
+    box-shadow: 2px 2px 12px 1px #404040;
+}
+
+.indexUserIdentity4 {
+    position: absolute;
+    right: 30px;
+    top: 115px;
+    width: 330px;
+    height: 40px;
+    font-size: 20px;
+    box-shadow: 2px 2px 12px 1px #404040;
+}
+
+.divBody {
+    background-color: #F3F6F5;
+    height: 843px;
+    width: 900px;
+    position: absolute;
+    left: 510px;
+    top: 60px;
+    box-shadow: 2px 2px 12px 1px #404040;
+}
+
+.dropDownMenu1 {
+    position: absolute;
+    left: 30px;
+    bottom: 445px;
+    box-shadow: 2px 2px 12px 1px #404040;
+}
+
+.dropDownMenu2 {
+    position: absolute;
+    left: 30px;
+    bottom: 390px;
+    box-shadow: 2px 2px 12px 1px #404040;
+}
+
+.dropDownMenu3 {
+    position: absolute;
+    left: 30px;
+    bottom: 335px;
+    box-shadow: 2px 2px 12px 1px #404040;
+}
+
+.dropDownMenu4 {
+    position: absolute;
+    left: 30px;
+    bottom: 280px;
+    box-shadow: 2px 2px 12px 1px #404040;
+}
+
+.dropDownMenu5 {
+    position: absolute;
+    left: 30px;
+    bottom: 225px;
+    box-shadow: 2px 2px 12px 1px #404040;
+}
+
+.dropDownMenu6 {
+    position: absolute;
+    left: 30px;
+    bottom: 170px;
+    box-shadow: 2px 2px 12px 1px #404040;
+}
+
+.divFooter {
+    font-size: 20px;
+    color: black;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    width: 1920px;
+    height: 60px;
+    background-color: #222;
+    color: darkgray
+}

@@ -1,0 +1,9 @@
+﻿.carousel-inner {
+    background-color: dimgray;
+    height: 500px;
+}
+.carousel-inner img {
+    transform: translateY(-20%);
+    width: 100%;
+    height: 100%;
+}

@@ -1,0 +1,33 @@
+﻿<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+@model CustomIdentityApp.ViewModels.RegisterViewModel
+
+    <div class="viewregister p-3 mb-2 bg-light text-dark border border-dark shadow-lg p-3 mb-5 bg-white rounded" style="height: 450px;">
+        <form method="post" asp-controller="Account" asp-action="Register">
+            <div asp-validation-summary="ModelOnly"></div>
+            <div>
+                <label asp-for="Email"></label><br />
+                <input asp-for="Email" />
+                <span asp-validation-for="Email"></span>
+            </div>
+            <div>
+                <label asp-for="Date"></label><br />
+                <input asp-for="Date" />
+                <span asp-validation-for="Date"></span>
+            </div>
+            <div>
+                <label asp-for="Password"></label><br />
+                <input asp-for="Password" />
+                <span asp-validation-for="Password"></span>
+            </div>
+            <div>
+                <label asp-for="PasswordConfirm"></label><br />
+                <input asp-for="PasswordConfirm" />
+                <span asp-validation-for="PasswordConfirm"></span>
+            </div>
+            <br />
+            <div>
+                <input type="submit" value="Register" />
+            </div>
+        </form>
+    </div>

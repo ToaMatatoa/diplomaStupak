@@ -1,0 +1,37 @@
+﻿.divCarousel {
+    background-color: lightgray;
+    position: absolute;
+    top: 7%;
+    left: 19%;
+    box-shadow: 2px 2px 15px -3px #000000;
+}
+
+.firstCarouselImage {
+    position: absolute;
+    top: 50%;
+    transform: translateY(+20%);
+    text-shadow: 0 -2px 1px #000000, 0 -2px 1px #000000, 0 2px 1px #000000, 0 2px 1px #000000, -2px 0 1px #000000, 2px 0 1px #000000, -2px 0 1px #000000, 2px 0 1px #000000, -1px -2px 1px #000000, 1px -2px 1px #000000, -1px 2px 1px #000000, 1px 2px 1px #000000, -2px -1px 1px #000000, 2px -1px 1px #000000, -2px 1px 1px #000000, 2px 1px 1px #000000, -2px -2px 1px #000000, 2px -2px 1px #000000, -2px 2px 1px #000000, 2px 2px 1px #000000, -2px -2px 1px #000000, 2px -2px 1px #000000, -2px 2px 1px #000000, 2px 2px 1px #000000;
+}
+
+.secondCarouselImage {
+    position: absolute;
+    top: 50%;
+    transform: translateY(+31%);
+    text-shadow: 0 -2px 1px #000000, 0 -2px 1px #000000, 0 2px 1px #000000, 0 2px 1px #000000, -2px 0 1px #000000, 2px 0 1px #000000, -2px 0 1px #000000, 2px 0 1px #000000, -1px -2px 1px #000000, 1px -2px 1px #000000, -1px 2px 1px #000000, 1px 2px 1px #000000, -2px -1px 1px #000000, 2px -1px 1px #000000, -2px 1px 1px #000000, 2px 1px 1px #000000, -2px -2px 1px #000000, 2px -2px 1px #000000, -2px 2px 1px #000000, 2px 2px 1px #000000, -2px -2px 1px #000000, 2px -2px 1px #000000, -2px 2px 1px #000000, 2px 2px 1px #000000;
+}
+
+.thirdCarouselImage {
+    position: absolute;
+    top: 50%;
+    transform: translateY(+21%);
+    text-shadow: 0 -2px 1px #000000, 0 -2px 1px #000000, 0 2px 1px #000000, 0 2px 1px #000000, -2px 0 1px #000000, 2px 0 1px #000000, -2px 0 1px #000000, 2px 0 1px #000000, -1px -2px 1px #000000, 1px -2px 1px #000000, -1px 2px 1px #000000, 1px 2px 1px #000000, -2px -1px 1px #000000, 2px -1px 1px #000000, -2px 1px 1px #000000, 2px 1px 1px #000000, -2px -2px 1px #000000, 2px -2px 1px #000000, -2px 2px 1px #000000, 2px 2px 1px #000000, -2px -2px 1px #000000, 2px -2px 1px #000000, -2px 2px 1px #000000, 2px 2px 1px #000000;
+}
+
+.itemsList {
+    position: absolute;
+    left: 19%;
+    bottom: 7%;
+    font-size: 14px;
+    box-shadow: 2px 2px 15px -3px #000000;
+    width: 105px;
+}

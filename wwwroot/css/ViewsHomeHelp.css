@@ -1,0 +1,90 @@
+﻿.divChat {
+    position: absolute;
+    top: 61px;
+    left: 24%;
+    text-align: center;
+    background-color: #F3F6F5;
+    box-shadow: 2px 2px 12px 1px #404040;
+}
+
+.loginBlockInput {
+    height: 30px;
+    font-size: 20px;
+    color: black;
+    padding-left: 10px;
+    left: 1px;
+}
+
+.loginBlockButton {
+    width: 100px;
+    height: 30px;
+    font-size: 15px;
+    box-shadow: 2px 2px 12px 1px #404040;
+    position: absolute;
+    top: 4.5%;
+    right: 12%;
+}
+
+.inputFormInput {
+    color: black;
+    font-size: 15px;
+    width: 300px;
+    height: 30px;
+    box-shadow: 2px 2px 12px 1px #404040;
+    padding-left: 10px;
+}
+
+.inputFormButton {
+    font-size: 15px;
+    width: 300px;
+    height: 30px;
+    box-shadow: 2px 2px 12px 1px #404040;
+}
+
+.chatRoom {
+    font-size: 20px;
+    color: black;
+    width: 600px;
+    height: 670px;
+    border: 3px groove gray;
+    text-align: left;
+    padding: 10px;
+    overflow: auto;
+}
+
+.divInsta {
+    width: 35rem;
+    position: absolute;
+    top: 61px;
+    left: 59%;
+    box-shadow: 2px 2px 12px 1px #404040;
+}
+
+.duvTelegram {
+    width: 35rem;
+    position: absolute;
+    top: 37.2%;
+    left: 59%;
+    box-shadow: 2px 2px 12px 1px #404040;
+}
+
+.googleMail {
+    width: 35rem;
+    position: absolute;
+    top: 70.4%;
+    left: 59%;
+    box-shadow: 2px 2px 12px 1px #404040;
+    height: 212px
+}
+
+.divSupport {
+    font-size: 20px;
+    color: black;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    width: 1920px;
+    height: 60px;
+    background-color: #222;
+    color: darkgray
+}
